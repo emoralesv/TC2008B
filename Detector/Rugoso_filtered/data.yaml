@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Rugose tomato','Rugose Flower','Rugose leaf','Rugose stem']
+
+roboflow:
+  workspace: greenhouse-hnq7q
+  project: rugoso_test-mv4rs
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/greenhouse-hnq7q/rugoso_test-mv4rs/dataset/1
