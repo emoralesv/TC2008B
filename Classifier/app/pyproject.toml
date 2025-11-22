@@ -1,0 +1,33 @@
+[build-system]
+requires = ["hatchling>=1.21.0"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[project]
+name = "RugoseAPI"
+version = "0.1.0"
+description = "API to perform inference"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name = "Eduardo Morales"}]
+license = {text = "MIT"}
+dependencies = [
+    "fastapi[standard]",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "Pillow",
+    "onnx",
+    "onnxruntime"
+]
+
+
+
+
+[tool.hatch.build.targets.wheel]
+packages = ["app/"]
+
+target-version = "py39"
+
