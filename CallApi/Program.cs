@@ -11,7 +11,7 @@ class Program
             Console.WriteLine("\n-> Ejecutando Ollama...");
             await Ollama.Run(); 
 
-            Console.WriteLine("\n-> Ejecutando Classifier...");
-            await Classifier.Run();
+            //Console.WriteLine("\n-> Ejecutando Classifier...");
+            //await Classifier.Run();
     }
 }

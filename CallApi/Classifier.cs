@@ -16,7 +16,7 @@ class Classifier
         try
         {
             // Ruta de la imagen a enviar al servidor FastAPI
-            string imagePath = @"C:\Users\eduar\OneDrive\Imágenes\noRugose.jpg";
+            string imagePath = @"C:\Users\eduar\repos\TC2008B\TestImages\T_F_H\00042_jpg.rf.08b5afd1b38abb655bde467761e7e009_T_F_H_001.jpg";
 
             // URL del endpoint FastAPI que recibe la imagen
             string url = "http://127.0.0.1:80/predict";

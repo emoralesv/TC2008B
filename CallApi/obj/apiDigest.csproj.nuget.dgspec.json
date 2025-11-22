@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\apiDigest.csproj": {}
+    "C:\\Users\\eduar\\repos\\TC2008B\\callApi\\apiDigest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\apiDigest.csproj": {
+    "C:\\Users\\eduar\\repos\\TC2008B\\callApi\\apiDigest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\apiDigest.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\repos\\TC2008B\\callApi\\apiDigest.csproj",
         "projectName": "apiDigest",
-        "projectPath": "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\apiDigest.csproj",
+        "projectPath": "C:\\Users\\eduar\\repos\\TC2008B\\callApi\\apiDigest.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\repos\\TC2008B\\callApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"

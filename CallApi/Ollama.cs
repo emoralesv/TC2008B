@@ -18,7 +18,7 @@ class Ollama
         // JSON de la solicitud
         string json = GenerateJson(
             model: "llama3",                            // Modelo LLM
-            prompt: "what is the capital of France",    // Consulta/promp de usuario
+            prompt: "Podrias generar una recomendación de acuerdo a la salud de la fruta clase: rugoso 99%",    // Consulta/promp de usuario
             system: "",                                 // Promp del sistema. Cómo debe actuar el LLM.
             stream: false                               // Tipo de respuesta: true, false. Stream para chat o todo el texto generado
         );
