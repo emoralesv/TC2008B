@@ -20,7 +20,7 @@ class Ollama
             model: "llama3",                            // Modelo LLM
             prompt: "what is the capital of France",    // Consulta/promp de usuario
             system: "",                                 // Promp del sistema. Cómo debe actuar el LLM.
-            stream: false                               // Tipo de respuesta: true, false.
+            stream: false                               // Tipo de respuesta: true, false. Stream para chat o todo el texto generado
         );
 
         // Configurar la solicitud

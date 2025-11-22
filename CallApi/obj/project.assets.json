@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduar\\repos\\TC2008B\\DigestApi\\apiDigest.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\apiDigest.csproj",
       "projectName": "apiDigest",
-      "projectPath": "C:\\Users\\eduar\\repos\\TC2008B\\DigestApi\\apiDigest.csproj",
+      "projectPath": "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\apiDigest.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduar\\repos\\TC2008B\\DigestApi\\obj\\",
+      "outputPath": "C:\\Users\\eduar\\repos\\TC2008B\\CallApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
